@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyDn1bri9xu3LPmWucde9USErpz9z6hZC2o'; // Replace with your Tenor API key
+const apiKey = '';
 let nextPos = 0;
 let currentQuery = '';
 
